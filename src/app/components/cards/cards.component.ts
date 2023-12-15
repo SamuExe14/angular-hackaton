@@ -3,9 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-cards',
   template: `
-    <p>
-      cards works!
-    </p>
+    <div class="g"></div>
   `,
   styles: [
   ]
