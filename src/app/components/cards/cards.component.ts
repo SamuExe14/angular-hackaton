@@ -3,7 +3,9 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-cards',
   template: `
-    <div class="g"></div>
+    <div class="container">
+      
+    </div>
   `,
   styles: [
   ]
