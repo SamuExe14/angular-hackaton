@@ -4,8 +4,8 @@ import { Component } from '@angular/core';
   selector: 'app-cards',
   template: `
     <div class="container">
-      <div class="card mt-5" style="width: 18rem;" *ngFor="let item of">
-        <img src="..." class="card-img-top" alt="..." />
+      <div class="card mt-5" style="width: 18rem;" >
+        <img src="" class="card-img-top"/>
         <div class="card-body">
           <h5 class="card-title">Card title</h5>
           <p class="card-text">
